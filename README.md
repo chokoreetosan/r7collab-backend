@@ -6,7 +6,11 @@ Create a file called .env
 
 In the first line, enter 
 
+
+```
 R7APIKEY=<apikey>
+
+```
 
 Copy your R7 api key into the .env file.
 
